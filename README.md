@@ -15,4 +15,4 @@ Create a cart page with per item price , per item quantity,total quantity and to
 
 6. All these functionalities are achieved using Redux.
 
-            Kindly Check. Thank You.
+            Kindly Check. Thank You!
